@@ -1,5 +1,5 @@
-# Deep Learning
-some projects and materials of deep learning
+﻿# Deep Learning
+some projects and materials about deep learning
 
 .ipynb is powered by jupyter Notebook
 
@@ -14,3 +14,5 @@ some projects and materials of deep learning
 [深度学习：优化神经网络(2)](http://binweber.top/2017/10/06/deep_learning_4/)
 
 [深度学习：TensorFlow](http://binweber.top/2017/10/14/deep_learning_5/)
+
+[深度学习：结构化机器学习项目](http://binweber.top/2017/11/09/deep_learning_6/)
