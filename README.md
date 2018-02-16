@@ -19,3 +19,5 @@ Andrew NG的Deep Learning系列课程资料
 [深度学习(7)：卷积神经网络](http://binweber.top/2017/11/28/deep_learning_7/)
 
 [深度学习(8)：卷积神经网络的应用](http://binweber.top/2018/01/18/deep_learning_8/)
+
+（tip：课程4资料中缺少的两个模型文件：[百度云盘](https://pan.baidu.com/s/1o9XYBIM),下载后解压到对应的model_data文件夹即可）
