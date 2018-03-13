@@ -30,4 +30,4 @@ Coursera上Andrew Ng的深度学习系列课程
 [吴恩达《深度学习》系列课程笔记](http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/)
 
 （tip：仓库里的课程4文件夹缺少文件：[百度云盘](https://pan.baidu.com/s/1o9XYBIM),下载后解压到对应的model_data文件夹
-课程5文件夹缺少文件：[百度云盘](),下载后解压到对应的data文件夹）
+课程5文件夹缺少文件：[百度云盘](https://pan.baidu.com/s/16fsrQHe0Z0JtauWDuMsq8A),下载后解压到对应的data文件夹）
