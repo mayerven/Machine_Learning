@@ -1,12 +1,12 @@
-﻿### Deep_Learning_Ng
+﻿# Deep_Learning_Ng
 
 Andrew Ng深度学习系列课程
 
-#### 课程主页：
+## 课程主页：
 * [Coursera](https://www.coursera.org/specializations/deep-learning)  
 * [网易云课堂](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 
-#### 学习笔记：
+## 学习笔记：
 * [深度学习(1)：逻辑回归](http://binweber.top/2017/09/12/deep_learning_1/)
 
 * [深度学习(2)：神经网络](http://binweber.top/2017/09/25/deep_learning_2/)
@@ -29,13 +29,15 @@ Andrew Ng深度学习系列课程
 
 * [深度学习(11)：序列模型](http://binweber.top/2018/03/09/deep_learning_11/)
 
-### Machine_Learning_Ng
+# Machine_Learning_Ng
 
 Andrew Ng机器学习课程
 
-#### 课程主页
+## 课程主页
 * [Coursera](https://www.coursera.org/learn/machine-learning/)
 * [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1004570029)
 
-#### 学习笔记
-* [【Andrew Ng】机器学习(1)：线性回归](http://binweber.top/2019/03/02/ng_machine_learning_1)
+## 学习笔记
+* [机器学习(1)：线性回归](http://binweber.top/2019/03/02/ng_machine_learning_1)
+  
+* [机器学习(2)：Logistic回归](http://binweber.top/2019/03/21/ng_machine_learning_2/)
